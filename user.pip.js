@@ -2,8 +2,8 @@
 // @name         YouTube - PiP (iOS)
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/insekter/YouTube-PiP-iOS
-// @version      1.0
-// @description  Enables PiP and blocks auto-mute. For iOS Safari, on m.youtube.com.
+// @version      1.01
+// @description  Enables PiP and blocks auto-mute; for iOS Safari, on m.youtube.com.
 // @match        *://m.youtube.com/*
 // @grant        none
 // @run-at       document-start
