@@ -4,4 +4,4 @@
 
 ## YouTube - PiP (iOS)
 
-![preview](/media/preview.png)
+<img src="/media/preview.png" alt="icon" width="600" />
